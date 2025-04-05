@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EvaluacionUnidad1</string>
+
+    <string name="plato1">Pastel de Choclo</string>
+    <string name="cantPlato1">Cant.</string>
+
+    <string name="plato2">Cazuela</string>
+    <string name="cantPlato2">Cant.</string>
+
+
+    <string name="tvComida">Comida:</string>
+    <string name="tvPropina">Propina:</string>
+    <string name="tvTOTAL">TOTAL:</string>
+
+</resources>
